@@ -9,7 +9,7 @@
 // | Author: 程立弘 <1019759208@qq.com>©️
 // +----------------------------------------------------------------------
 
-namespace Lsclh\QRcode;
+namespace Lsclh\Qrcode;
 use Lsclh\Fcurl\Fcurl;
 
 /**
